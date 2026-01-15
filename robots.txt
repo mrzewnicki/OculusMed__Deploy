@@ -1,4 +1,0 @@
-﻿User-agent: *
-Allow: /
-
-Sitemap: https://okulista-optyk-wesola.pl/sitemap.xml
